@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-v98tgy.kujang138btc.space/sitemap.xml
